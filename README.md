@@ -1,2 +1,2 @@
-# YT-Django-DRF-Simple-Blog-Series-Simple-CRUD-Part-7
+A blog app built with django rest framework and react
  
