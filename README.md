@@ -1,2 +1,2 @@
-# YT-Django-DRF-Simple-Blog-Series-Social Login-Part-9
+# A blog app built with django rest framework and react
  
